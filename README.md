@@ -1,19 +1,19 @@
-###Battleships
+### Battleships
 
 
-##Description: 
+## Description: 
    
 A simple console guessing game where the goal is to find and sink all of the ships
 
 
-##Overview:
+## Overview:
 
 10x10 grid
 2 types of ships, placed randomly;
 Single-player engine for playing against the computer;
 
 
-##Commands:
+## Commands:
 
 new - start a new game;
 exit - exits the game;
