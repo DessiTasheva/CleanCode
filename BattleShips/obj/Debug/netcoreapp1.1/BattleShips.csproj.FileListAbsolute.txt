@@ -1,0 +1,9 @@
+c:\users\hp_\documents\visual studio 2017\Projects\BattleShips\BattleShips\bin\Debug\netcoreapp1.1\BattleShips.deps.json
+c:\users\hp_\documents\visual studio 2017\Projects\BattleShips\BattleShips\bin\Debug\netcoreapp1.1\BattleShips.runtimeconfig.json
+c:\users\hp_\documents\visual studio 2017\Projects\BattleShips\BattleShips\bin\Debug\netcoreapp1.1\BattleShips.runtimeconfig.dev.json
+c:\users\hp_\documents\visual studio 2017\Projects\BattleShips\BattleShips\bin\Debug\netcoreapp1.1\BattleShips.dll
+c:\users\hp_\documents\visual studio 2017\Projects\BattleShips\BattleShips\bin\Debug\netcoreapp1.1\BattleShips.pdb
+c:\users\hp_\documents\visual studio 2017\Projects\BattleShips\BattleShips\obj\Debug\netcoreapp1.1\BattleShips.csprojResolveAssemblyReference.cache
+c:\users\hp_\documents\visual studio 2017\Projects\BattleShips\BattleShips\obj\Debug\netcoreapp1.1\BattleShips.AssemblyInfo.cs
+c:\users\hp_\documents\visual studio 2017\Projects\BattleShips\BattleShips\obj\Debug\netcoreapp1.1\BattleShips.dll
+c:\users\hp_\documents\visual studio 2017\Projects\BattleShips\BattleShips\obj\Debug\netcoreapp1.1\BattleShips.pdb
